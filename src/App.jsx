@@ -10,6 +10,8 @@ export default function App() {
         Welcome! This is a simple responsive web app that works on mobile and desktop.
       </p>
 
+      <image src="./assets/dare_logo.png" alt="Investment" className="mb-6 rounded-lg shadow-md" />
+
       <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700">
         Get Started
       </button>
